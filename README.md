@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭Artificial Intelligence and Data Science student.<br>🖥️Proficient in Java, Python, and Rust.<br>🤝 I’m looking for help with Data Structures using C.<br>🌱 I’m currently learning OOPs using Java.<br>💬 Ask me about computer hardware, You will have your answer.
+🔭Artificial Intelligence and Data Science student.<br>🖥️Proficient in Java, Python, and C.<br>🤝 I’m looking for help with Data Structures using C.<br>🌱 I’m currently learning OOPs using Java.<br>💬 Ask me about computer hardware, You will have your answer.
 
 
 ## 🌐 Socials:
