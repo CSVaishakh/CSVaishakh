@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently an Artificial Intelligence and Data Science Studenet<br><br>🌱 I’m currently learning Java OOPs and Data Structures and Algorithm<br><br>👯 I’m looking to collaborate on Interesting projects that can solve any relevant problems<br><br>🤝 I’m looking for help with Web Development<br><br>💬 Ask me about Computer Hardware Stuff. You will have your answer.<br><br>
+🔭 I’m currently an Artificial Intelligence and Data Science Student<br><br>🌱 I’m currently learning Java OOPs and Data Structures and Algorithm<br><br>👯 I’m looking to collaborate on Interesting projects that can solve any relevant problems<br><br>🤝 I’m looking for help with Web Development<br><br>💬 Ask me about Computer Hardware Stuff. You will have your answer.<br><br>
 
 
 
