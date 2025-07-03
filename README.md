@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on full-stack projects<br>👯 I’m looking to collaborate on solving relevant problems using Computer Science<br>🤝 I’m looking for help with AI and Machine Learning<br>🌱 I’m currently learning AI and Data Science
+🔭 I’m currently working on Data Science projects<br>👯 I’m looking to collaborate on solving relevant problems using Computer Science<br>🤝 I’m looking for help with AI and Machine Learning<br>🌱 I’m currently learning AI and Data Science
 
 
 ## 🌐 Socials:
