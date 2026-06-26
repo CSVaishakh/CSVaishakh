@@ -1,6 +1,14 @@
+<div align="center">
+
+# Hi, I'm C S Vaishakh 👋
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7C83FD&center=true&vCenter=true&width=600&lines=AI+%26+Data+Science+Engineer;Full-Stack+Developer;Backend+%7C+Go+%7C+TypeScript+%7C+PostgreSQL)](https://git.io/typing-svg)
+
+<br/>
+
 [![Email](https://skillicons.dev/icons?i=gmail)](mailto:vaishakhsubramonian@gmail.com)&nbsp;
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/csvaishakh)&nbsp;
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/vaishakh_cs)&nbsp;
+<a href="https://x.com/vaishakh_cs"><img src="https://cdn.simpleicons.org/x/white" height="36" alt="X" /></a>&nbsp;
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/CSVaishakh)
 
 </div>
@@ -42,9 +50,6 @@ I build software that connects models, APIs, databases, and real user workflows 
   <img src="https://skillicons.dev/icons?i=java" height="40" title="Java" />
 </p>
 
-![C](https://img.shields.io/badge/C-minimum_experience-00599C?style=flat&logo=c&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-minimum_experience-000000?style=flat&logo=rust&logoColor=white)
-
 ---
 
 ### Frameworks & Libraries
@@ -57,8 +62,6 @@ I build software that connects models, APIs, databases, and real user workflows 
   <img src="https://skillicons.dev/icons?i=tensorflow" height="40" title="TensorFlow" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="40" title="Tailwind CSS" />
 </p>
-
-![FastAPI](https://img.shields.io/badge/FastAPI-project_based-009688?style=flat&logo=fastapi&logoColor=white)
 
 ---
 
@@ -94,5 +97,3 @@ I build software that connects models, APIs, databases, and real user workflows 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CSVaishakh&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%" />
