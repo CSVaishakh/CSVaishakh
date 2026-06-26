@@ -1,9 +1,3 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=C%20S%20Vaishakh&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=AI%20%26%20Data%20Science%20%7C%20Full-Stack%20%7C%20Backend%20Systems&descAlignY=58&descSize=16&animation=fadeIn" width="100%" />
-
-<br/>
-
 [![Email](https://skillicons.dev/icons?i=gmail)](mailto:vaishakhsubramonian@gmail.com)&nbsp;
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/csvaishakh)&nbsp;
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/vaishakh_cs)&nbsp;
