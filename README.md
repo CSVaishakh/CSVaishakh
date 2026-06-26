@@ -1,4 +1,14 @@
-# Hi, I'm C S Vaishakh
+<table>
+  <tr>
+    <td><h1>Hi, I'm C S Vaishakh</h1></td>
+    <td align="right">
+      <a href="mailto:vaishakhsubramonian@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="36" alt="Email" /></a>
+      <a href="https://linkedin.com/in/csvaishakh"><img src="https://skillicons.dev/icons?i=linkedin" height="36" alt="LinkedIn" /></a>
+      <a href="https://x.com/vaishakh_cs"><img src="https://cdn.simpleicons.org/x/ffffff" height="32" alt="X" /></a>
+      <a href="https://github.com/CSVaishakh"><img src="https://skillicons.dev/icons?i=github" height="36" alt="GitHub" /></a>
+    </td>
+  </tr>
+</table>
 
 ## About me
 
@@ -103,23 +113,3 @@ My academic focus includes programming, data structures, databases, software dev
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CSVaishakh&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
-
-## Connect with me
-
-<p align="left">
-  <a href="mailto:vaishakhsubramonian@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="36" alt="Email" />
-  </a>
-
-  <a href="https://linkedin.com/in/csvaishakh">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="36" alt="LinkedIn" />
-  </a>
-
-  <a href="https://x.com/vaishakh_cs">
-    <img src="https://cdn.simpleicons.org/x/ffffff" height="32" alt="X" />
-  </a>
-
-  <a href="https://github.com/CSVaishakh">
-    <img src="https://skillicons.dev/icons?i=github" height="36" alt="GitHub" />
-  </a>
-</p>
