@@ -110,15 +110,15 @@ My academic focus includes programming, data structures, databases, software dev
   <a href="mailto:vaishakhsubramonian@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="36" alt="Email" />
   </a>
-  &nbsp;&nbsp;
+
   <a href="https://linkedin.com/in/csvaishakh">
     <img src="https://skillicons.dev/icons?i=linkedin" height="36" alt="LinkedIn" />
   </a>
-  &nbsp;&nbsp;
+
   <a href="https://x.com/vaishakh_cs">
     <img src="https://cdn.simpleicons.org/x/ffffff" height="32" alt="X" />
   </a>
-  &nbsp;&nbsp;
+
   <a href="https://github.com/CSVaishakh">
     <img src="https://skillicons.dev/icons?i=github" height="36" alt="GitHub" />
   </a>
