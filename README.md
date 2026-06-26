@@ -1,59 +1,52 @@
-<table>
-  <tr>
-    <td><h1>Hi, I'm C S Vaishakh</h1></td>
-    <td align="right">
-      <a href="mailto:vaishakhsubramonian@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="36" alt="Email" /></a>
-      <a href="https://linkedin.com/in/csvaishakh"><img src="https://skillicons.dev/icons?i=linkedin" height="36" alt="LinkedIn" /></a>
-      <a href="https://x.com/vaishakh_cs"><img src="https://cdn.simpleicons.org/x/ffffff" height="32" alt="X" /></a>
-      <a href="https://github.com/CSVaishakh"><img src="https://skillicons.dev/icons?i=github" height="36" alt="GitHub" /></a>
-    </td>
-  </tr>
-</table>
+<div align="center">
 
-## About me
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=C%20S%20Vaishakh&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=AI%20%26%20Data%20Science%20%7C%20Full-Stack%20%7C%20Backend%20Systems&descAlignY=58&descSize=16&animation=fadeIn" width="100%" />
 
-I'm interested in building useful software with AI, data science, and full-stack engineering. I like projects where models, APIs, databases, and clean user-facing workflows come together to solve practical problems.
+<br/>
 
-- Currently learning and building in AI, Data Science, and full-stack development
-- Interested in backend systems, ML-powered products, and data-driven applications
-- Comfortable with Python, JavaScript, TypeScript, Node.js, React, Next.js, SQL, and MongoDB
-- Have minimum experience with C and Rust
-- Not currently working with Flask or Django
+[![Email](https://skillicons.dev/icons?i=gmail)](mailto:vaishakhsubramonian@gmail.com)&nbsp;
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/csvaishakh)&nbsp;
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/vaishakh_cs)&nbsp;
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/CSVaishakh)
+
+</div>
 
 ---
 
-## Education
+## Who I am
 
-I'm a final-year **Artificial Intelligence and Data Science Engineering** student at **St. Joseph's College of Engineering and Technology, Palai**, affiliated with **APJ Abdul Kalam Technological University, Kerala**.
+I build software that connects models, APIs, databases, and real user workflows into things that actually work. My interests sit at the intersection of backend systems, ML-powered products, and clean full-stack engineering.
 
-My academic focus includes programming, data structures, databases, software development, artificial intelligence, machine learning, and data science.
+- 🎓 **AI & Data Science Engineering** — SJCET Palai, APJ Abdul Kalam Technological University (2023–2027)
+- ⚙️ Focused on backend architecture, production DevOps, and data-driven applications
+- 🌱 Actively contributing to open source and exploring systems at scale
 
 ---
 
-## Featured projects
+## Featured Projects
 
-| Project | What it does | Tech |
+| Project | What it does | Stack |
 |---|---|---|
-| [PortfolioIQ](https://github.com/CSVaishakh/PortfolioIQ) | Privacy-preserving portfolio rebalancing platform using browser-side federated learning and market signals. | Next.js, React, TypeScript, TensorFlow.js, Express, FastAPI, PostgreSQL |
-| [Emotion Music Recommender](https://github.com/CSVaishakh/Emotion-Music-Recommender2) | Mood-based music recommendation project using webcam, image, or text-based emotion input. | Python, ML, HTML/CSS/JS |
-| [ONT Monitor](https://github.com/CSVaishakh/ONT-Monitor) | Service that processes ONT status events, evaluates area outages, and sends WhatsApp alerts. | Go, PostgreSQL, Twilio |
-| [Course Selling App](https://github.com/CSVaishakh/CourseSellingApp) | Backend for a course marketplace with user/admin auth, purchases, and JWT authorization. | Node.js, Express, MongoDB, JWT |
-| [AI DataScience Lab](https://github.com/CSVaishakh/AI-DataScience-Lab) | AI and data science experiments and lab work. | Python, Data Science |
-| [BigData Analytics](https://github.com/CSVaishakh/BigData-Analytics) | Big data analytics practice repository. | Data Analytics |
+| [**PortfolioIQ**](https://github.com/CSVaishakh/PortfolioIQ) | Privacy-preserving portfolio rebalancing using browser-side federated learning and market signals | Next.js · TypeScript · TensorFlow.js · Express · FastAPI · PostgreSQL |
+| [**ONT Monitor**](https://github.com/CSVaishakh/ONT-Monitor) | Concurrent ISP outage detection pipeline — area-based event routing, dedup logic, and WhatsApp alerts via Twilio | Go · PostgreSQL · Twilio |
+| [**Emotion Music Recommender**](https://github.com/CSVaishakh/Emotion-Music-Recommender2) | Mood-based music recommendations from webcam, image, or text emotion input | Python · ML · HTML/CSS/JS |
+| [**Course Selling App**](https://github.com/CSVaishakh/CourseSellingApp) | Backend marketplace with dual-role auth, purchases, and JWT authorization | Node.js · Express · MongoDB |
+| [**AI DataScience Lab**](https://github.com/CSVaishakh/AI-DataScience-Lab) | Hands-on AI and data science experiments | Python · Data Science |
+| [**BigData Analytics**](https://github.com/CSVaishakh/BigData-Analytics) | Big data analytics practice and exploration | Data Analytics |
 
 ---
 
-## Tech stack
+## Tech Stack
 
 ### Languages
 
-![Python](https://skillicons.dev/icons?i=python)
-![JavaScript](https://skillicons.dev/icons?i=js)
-![TypeScript](https://skillicons.dev/icons?i=ts)
-![Go](https://skillicons.dev/icons?i=go)
-![Java](https://skillicons.dev/icons?i=java)
-
-**Minimum experience**
+<p>
+  <img src="https://skillicons.dev/icons?i=python" height="40" title="Python" />
+  <img src="https://skillicons.dev/icons?i=go" height="40" title="Go" />
+  <img src="https://skillicons.dev/icons?i=ts" height="40" title="TypeScript" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" title="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=java" height="40" title="Java" />
+</p>
 
 ![C](https://img.shields.io/badge/C-minimum_experience-00599C?style=flat&logo=c&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-minimum_experience-000000?style=flat&logo=rust&logoColor=white)
@@ -62,54 +55,50 @@ My academic focus includes programming, data structures, databases, software dev
 
 ### Frameworks & Libraries
 
-![React](https://skillicons.dev/icons?i=react)
-![Next.js](https://skillicons.dev/icons?i=nextjs)
-![Node.js](https://skillicons.dev/icons?i=nodejs)
-![Express.js](https://skillicons.dev/icons?i=express)
-![TensorFlow](https://skillicons.dev/icons?i=tensorflow)
-![Tailwind CSS](https://skillicons.dev/icons?i=tailwind)
-
-**Limited / project-based exposure**
+<p>
+  <img src="https://skillicons.dev/icons?i=react" height="40" title="React" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="40" title="Next.js" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" title="Node.js" />
+  <img src="https://skillicons.dev/icons?i=express" height="40" title="Express.js" />
+  <img src="https://skillicons.dev/icons?i=tensorflow" height="40" title="TensorFlow" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" title="Tailwind CSS" />
+</p>
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-project_based-009688?style=flat&logo=fastapi&logoColor=white)
-
-**Not currently working with**
-
-![Flask](https://img.shields.io/badge/Flask-not_currently_using-000000?style=flat&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/Django-not_currently_using-092E20?style=flat&logo=django&logoColor=white)
 
 ---
 
 ### Databases
 
-![PostgreSQL](https://skillicons.dev/icons?i=postgres)
-![MongoDB](https://skillicons.dev/icons?i=mongodb)
-![MySQL](https://skillicons.dev/icons?i=mysql)
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" title="PostgreSQL" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" title="MongoDB" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" title="MySQL" />
+</p>
 
 ---
 
 ### Tools & Platforms
 
-![Git](https://skillicons.dev/icons?i=git)
-![GitHub](https://skillicons.dev/icons?i=github)
-![Docker](https://skillicons.dev/icons?i=docker)
-![Vercel](https://skillicons.dev/icons?i=vercel)
-![Postman](https://skillicons.dev/icons?i=postman)
-![VS Code](https://skillicons.dev/icons?i=vscode)
-## What I'm focusing on
-
-- AI and Data Science
-- Full-stack web development
-- Backend APIs and authentication
-- Databases and data-driven applications
-- Practical ML projects with usable interfaces
+<p>
+  <img src="https://skillicons.dev/icons?i=git" height="40" title="Git" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" title="GitHub" />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" title="Docker" />
+  <img src="https://skillicons.dev/icons?i=vercel" height="40" title="Vercel" />
+  <img src="https://skillicons.dev/icons?i=postman" height="40" title="Postman" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" title="VS Code" />
+</p>
 
 ---
 
-## GitHub stats
+## GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=CSVaishakh&show_icons=true&theme=tokyonight&hide_border=true)
+<div align="center">
 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CSVaishakh&layout=compact&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CSVaishakh&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
 
----
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CSVaishakh&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%" />
